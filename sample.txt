@@ -1,11 +1,2 @@
-<<<<<<< HEAD
 
-hi
-this is devops
-for githello we modified
-Hello check this file
-hello
-=======
-My name is carter
-
->>>>>>> Dev
+My name is hassan
